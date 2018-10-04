@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="actividad13" size="2.000000 1.500000" />
+    <ImageTarget name="actividad19" size="2.000000 1.363333" />
+    <ImageTarget name="actividad5" size="2.000000 2.000000" />
+    <ImageTarget name="actividad21" size="2.000000 1.305825" />
+    <ImageTarget name="actividad9" size="2.000000 2.000000" />
+    <ImageTarget name="actividad20" size="2.000000 2.000000" />
+    <ImageTarget name="actividad18" size="2.000000 2.000000" />
+    <ImageTarget name="actividad17" size="2.000000 1.706122" />
+    <ImageTarget name="actividad16" size="2.000000 1.766667" />
+    <ImageTarget name="actividad15" size="2.000000 1.412500" />
+    <ImageTarget name="actividad14" size="2.000000 1.541259" />
+    <ImageTarget name="actividad12" size="2.000000 1.876623" />
+    <ImageTarget name="actividad11" size="2.000000 2.000000" />
+    <ImageTarget name="actividad10" size="2.000000 1.500000" />
+    <ImageTarget name="actividad8" size="2.000000 1.500000" />
+    <ImageTarget name="actividad7" size="2.000000 1.940000" />
+    <ImageTarget name="actividad6" size="2.000000 1.330978" />
+    <ImageTarget name="actividad4" size="2.000000 1.500000" />
+    <ImageTarget name="actividad3" size="2.000000 1.644444" />
+    <ImageTarget name="actividad2" size="2.000000 2.000000" />
+    <ImageTarget name="actividad1" size="2.000000 2.000000" />
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualInduction", "VirtualInduction.csproj", "{EF8E3A53-1DDC-5336-D47C-FDF53ADF3BA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualInduction.Editor", "VirtualInduction.Editor.csproj", "{DA7B4DE4-6B1E-7617-1239-A88AD9159E3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF8E3A53-1DDC-5336-D47C-FDF53ADF3BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF8E3A53-1DDC-5336-D47C-FDF53ADF3BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF8E3A53-1DDC-5336-D47C-FDF53ADF3BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF8E3A53-1DDC-5336-D47C-FDF53ADF3BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7B4DE4-6B1E-7617-1239-A88AD9159E3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7B4DE4-6B1E-7617-1239-A88AD9159E3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7B4DE4-6B1E-7617-1239-A88AD9159E3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7B4DE4-6B1E-7617-1239-A88AD9159E3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
