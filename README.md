@@ -1,6 +1,6 @@
-# SmartCampus
+# Smart Campus
 
-Official Article published by LACCEI (Latin American and Caribbean Consortium of Engineering Institutions)
+Official Article published by LACCEI - Lima, Peru 2018 (Latin American and Caribbean Consortium of Engineering Institutions)
 http://www.laccei.org/LACCEI2018-Lima/work_in_progress/WP249.pdf
 
 Work Documentation: 
