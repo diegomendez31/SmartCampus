@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Escaneo.unity
+  isLoaded: 1
+  isActive: 1
